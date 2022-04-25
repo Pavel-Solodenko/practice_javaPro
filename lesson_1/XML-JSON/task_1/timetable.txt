@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<trains>
+  <train id="1">
+    <from>Kyiv</from>
+    <to>Donetsk</to>
+    <date>19.12.2013</date>
+    <departure>15:05</departure>
+  </train>
+  <train id="2">
+    <from>Lviv</from>
+    <to>Donetsk</to>
+    <date>19.12.2013</date>
+    <departure>19:05</departure>
+  </train>
+  <train id="3">
+    <from>Mykolaiv</from>
+    <to>Rivne</to>
+    <date>19.12.2013</date>
+    <departure>13:00</departure>
+  </train>
+  <train id="4">
+    <from>Uzhorod</from>
+    <to>Dnipro</to>
+    <date>21.04.2022</date>
+    <departure>19:00</departure>
+  </train>
+  <train id="5">
+    <from>Poltava</from>
+    <to>Kharkiv</to>
+    <date>08.03.2022</date>
+    <departure>15:00</departure>
+  </train>
+  <train id="6">
+    <from>Cherkassi</from>
+    <to>Vinnitsa</to>
+    <date>25.04.2022</date>
+    <departure>17:35</departure>
+  </train>
+  <train id="3">
+    <from>Mykolaiv</from>
+    <to>Rivne</to>
+    <date>19.12.2013</date>
+    <departure>13:00</departure>
+  </train>
+  <train id="4">
+    <from>Uzhorod</from>
+    <to>Dnipro</to>
+    <date>21.04.2022</date>
+    <departure>19:00</departure>
+  </train>
+  <train id="5">
+    <from>Poltava</from>
+    <to>Kharkiv</to>
+    <date>08.03.2022</date>
+    <departure>15:00</departure>
+  </train>
+  <train id="6">
+    <from>Cherkassi</from>
+    <to>Vinnitsa</to>
+    <date>25.04.2022</date>
+    <departure>17:35</departure>
+  </train>
+  <train id="3">
+    <from>Mykolaiv</from>
+    <to>Rivne</to>
+    <date>19.12.2013</date>
+    <departure>13:00</departure>
+  </train>
+  <train id="4">
+    <from>Uzhorod</from>
+    <to>Dnipro</to>
+    <date>21.04.2022</date>
+    <departure>19:00</departure>
+  </train>
+  <train id="5">
+    <from>Poltava</from>
+    <to>Kharkiv</to>
+    <date>08.03.2022</date>
+    <departure>15:00</departure>
+  </train>
+  <train id="6">
+    <from>Cherkassi</from>
+    <to>Vinnitsa</to>
+    <date>25.04.2022</date>
+    <departure>17:35</departure>
+  </train>
+  <train id="3">
+    <from>Mykolaiv</from>
+    <to>Rivne</to>
+    <date>19.12.2013</date>
+    <departure>13:00</departure>
+  </train>
+  <train id="4">
+    <from>Uzhorod</from>
+    <to>Dnipro</to>
+    <date>21.04.2022</date>
+    <departure>19:00</departure>
+  </train>
+  <train id="5">
+    <from>Poltava</from>
+    <to>Kharkiv</to>
+    <date>08.03.2022</date>
+    <departure>15:00</departure>
+  </train>
+  <train id="6">
+    <from>Cherkassi</from>
+    <to>Vinnitsa</to>
+    <date>25.04.2022</date>
+    <departure>17:35</departure>
+  </train>
+</trains>
